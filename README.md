@@ -5,7 +5,7 @@
 Problem statement: https://docs.google.com/document/d/1XoiQFivpBtAY0hvU_6xjGZW9y2UKpK8S8LtXQ7_jJJQ/edit
 
 
-Market Research: 
+Market Research: https://docs.google.com/document/d/1ztOIwFjwIJqS_X7CgC1jf0lpRpyyName3QKmQliilfc/edit?usp=sharing
 
 
 User flow: https://drive.google.com/file/d/1ZDPWJknVtwpSlzv0hV8v6Di8rz9AWBkK/view?usp=sharing
